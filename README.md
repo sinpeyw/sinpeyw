@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Xinpei Wang 👋
+---
 
-<!--
-**sinpeyw/sinpeyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 Currently researching: Large model training and inference acceleration
+- 💼 School: College of Intelligence and Computing，Tianjin University
+- 👯 Looking to collaborate on: Projects related to large models
+- 📫 How to reach me:wangxinpei@tju.endu.cn
 
-Here are some ideas to get you started:
+---
+## Skills & Tech Stack
+- Extensive experience in developing and optimizing fundamental operators, with strong proficiency in writing kernel functions using CUDA and OpenCL.
+- Deep understanding of GPU architectures, enabling the design and optimization of high-performance, low-level operators that effectively align computational requirements with hardware capabilities. Proven expertise in software-hardware co-optimization.
+- Proficient in heterogeneous programming, with hands-on experience in project development and competitive settings using CUDA, OpenCL, MPI, OpenMP, and other relevant frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
