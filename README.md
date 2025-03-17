@@ -5,7 +5,7 @@
 - 🌱 Currently researching: Large model training and inference acceleration
 - 💼 School: College of Intelligence and Computing，Tianjin University
 - 👯 Looking to collaborate on: Projects related to large models
-- 📫 How to reach me:wangxinpei@tju.endu.cn
+- 📫 How to reach me:wangxinpei@tju.edu.cn
 
 ---
 ## Skills & Tech Stack
