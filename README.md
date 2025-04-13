@@ -1,6 +1,7 @@
 # Hi, I'm Xinpei Wang 👋
+Diving into MLSys… currently floating near the surface.
 
-**Research Interests**: High Performance Computing (HPC), Machine Learning Systems (MLSys)
+**Research Interests**: MLSys & HPC
 
-Currently, I am focusing on Large Language Model (LLM) Inference, including optimization, deployment, and scalability challenges.<br>
-My work aims to bridge the gap between cutting-edge ML models and efficient system design.
+Recently, I am focusing on LLM Inference, including optimization, deployment, and scalability challenges.My work aims to bridge the gap between cutting-edge ML models and efficient system design.
+
