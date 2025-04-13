@@ -1,5 +1,6 @@
 # Hi, I'm Xinpei Wang 👋
-Diving into MLSys… currently floating near the surface.
+Diving into MLSys… currently floating near the surface.<br>
+Still a beginner — Results are on the way… possibly lost en route.
 
 **Research Interests**: MLSys & HPC
 
