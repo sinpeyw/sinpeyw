@@ -1,1 +1,2 @@
-
+I am a Bachelor’s student in Computer Science and Technology at Tianjin University, and I am about to continue my studies at Tianjin University as a PhD student under the supervision of Professor Yitao Hu. My research interests focus on large language model systems. Currently, I am exploring LLM inference, including optimization, deployment, and scalability challenges.
+My work aims to bridge the gap between cutting-edge large language models and efficient system design, exploring practical solutions for real-world applications.
